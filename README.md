@@ -26,11 +26,11 @@ XGboost:
 
   train method:
   
-  origin code for origin code
+    origin code for origin code
   
   test method(cv_predict):
   
-  XGboost for origin code
+    XGboost for origin code
 
 output csv 輸出最後預測結果(csv)
 
