@@ -2,11 +2,11 @@
 
 extract features:
 
-  origin code 用於extract features
+    origin code 用於extract features
 
-  change code (27feature average)用於extract 27features後average
+    change code (27feature average)用於extract 27features後average
 
-  change code (27feature)用於extract 27features
+    change code (27feature)用於extract 27features
 
 lightGBM:
 
